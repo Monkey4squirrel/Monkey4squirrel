@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá, meu nome é Cauã, tenho 15 anos, e gosto de<strong>Programar</strong>.<br>
+ Olá, meu nome é Cauã, tenho 15 anos, e gosto de <strong>Programar</strong>.<br>
   Estudo na TECPUC e pretendo trabalhar
 </p>
 
