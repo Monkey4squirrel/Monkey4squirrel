@@ -1,47 +1,31 @@
-Meu nome é **Cauã** e estou *aprendendo* a trabalhar com o 
-__*MarkDown*__ e já aprendi a programar em ~~Portugol Studio~~
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Lista para aprender
-* GitHub
-  * MarkDown
-* VSCode
-* HTML
-* CSS
-* JavaScript
+<p align="left"> 
+ Olá, meu nome é Cauã, tenho 15 anos, e gosto de<strong>Programar</strong>.<br>
+  Estudo na TECPUC e pretendo trabalhar
+</p>
 
----
+<p align="left">
+  🦄 Linguagens: <strong>Java, Python, HTML e CSS.</strong>
+</p>
 
-Cod|Descrição|Versão|Data
----:|:---:|---:|---
-1| Tarefa1|1.0|01/08/2022
-2| Tarefa2|2.0|11/08/2022
+<p align="left">
+  💼 Ferramentas: <strong>VSCode.</strong>
+</p>
 
-Atividades para realizar 
-- [x] Pintar a parede
-- [x] Pintar a porta
-- [ ] Lixar o piso
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caua.vaisconcelos@gmail.com" /></a>
 
-Acesse meu [GitHub](https://github.com/Monkey4squirrel)
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-Clique [aqui](https://www.google.com.br) para acessar o Google
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
----
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-Deixar um comando em evidencia `printf("Hello World")`
-
-Olha meu código
-```
-
-num = int(input('Digite um valor:')
-if num % 2 == 0;
-    print(f'o valor {num} e par')
-else:
-    print(f'O valor {num} é ímpar')
-```
-
->Este é um *blockquote*. O sinal usado abre e fecha este código no HTML.  
->Para adcionar mais uma linha à citação basta teclar _Enter_ para um novo 
->código sinal. Isso gerará um novo parágrafo dentro do *blockquote* 
->Códigos de **negrito**, _itálico_ e <https://links.com> funcionam aqui.  
-
-Sites de emojos [emojo1github](https://github.com/ikatyang/emoji-cheat-sheet) [emojo2site emojo](emojipedia.org)
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
