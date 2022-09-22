@@ -21,7 +21,7 @@ Atividades para realizar
 - [x] Pintar a porta
 - [ ] Lixar o piso
 
-Acesse meu [GitHub] (https://github.com/Monkey4squirrel)
+Acesse meu [GitHub](https://github.com/Monkey4squirrel)
 
 Clique [aqui](https://www.google.com.br) para acessar o Google
 
